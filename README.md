@@ -1,4 +1,4 @@
-# Site criado em Sass.
+# Site criado com Sass.
 
 Tecnologias utilizadas: HTML + SASS.
 
