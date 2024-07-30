@@ -1,12 +1,15 @@
-# Site criado com Sass.
+## Projeto: DogDev
 
-Tecnologias utilizadas: HTML + SASS.
+**Tecnologias utilizadas:**
 
-<!-- # Instalação:
+- [HTML]()
+- [Sass]()
+- [Javascript]()
 
-- `npm install` -->
+## Instalação:
 
-# Para rodar:
+- `npm i ou npm install`
 
-- `Eu uso a extensão Live Server`
-- `Também pode ser executado direto pelo arquivo HTML`
+## Para rodar:
+
+- `Live Server`
